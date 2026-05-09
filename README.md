@@ -16,9 +16,18 @@ Windows
 
 venv\Scripts\activate
 
+pip install --upgrade pip
+
 Install Dependencies
 
 pip install -r requirements.txt
+
+If the file is not available, do he following commands:
+
+pip install chromadb
+pip install sentence-transformers
+pip install torch
+pip install pymupdf
 
 Build ChromaDB
 
