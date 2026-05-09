@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Who is my academic advisor and how do I make an advising appointment?",
+    "answer": "We no longer have assigned advisors by last name, so you are welcome to make an appointment with whoever you would like and/or whoever has appointment availability that matches your own.",
+    "source": "UNT COI Undergraduate FAQ Page"
+  },
+  {
+    "question": "How do I set up an appointment to change my major?",
+    "answer": "Appointments can be made through UNT Navigate (https://unt.navigate.eab.com/) for current UNT students. Under Care Unit choose: Academic Advising: Interested in Major Change and choose the major of interest in COI.",
+    "source": "UNT COI Undergraduate FAQ Page"
+  },
+  {
+    "question": "How do I know if I have holds on my account?",
+    "answer": "Sign into my.unt.edu and on the student homepage, a notification about your hold will be reflected on the task tile. Selecting the hold provides more information on how to resolve or remove it.",
+    "source": "UNT COI Undergraduate FAQ Page"
+  },
+  {
+    "question": "Where can I search, add, drop, or swap my courses?",
+    "answer": "Sign into my.unt.edu and on the student homepage, select the enrollment tile.",
+    "source": "UNT COI Undergraduate FAQ Page"
+  },
+  {
+    "question": "Where can I find my degree audit?",
+    "answer": "Navigate to my.unt.edu, select advising and orientation from the student homepage, then run my degree audit.",
+    "source": "UNT COI Undergraduate FAQ Page"
+  },
+  {
+    "question": "What do I do if my degree audit needs to be updated by an advisor?",
+    "answer": "Email ci-advising@unt.edu with your 8-digit student ID number. This is especially true for Learning Technologies and Information Science majors.",
+    "source": "UNT COI Undergraduate FAQ Page"
+  },
+  {
+    "question": "How do I calculate my GPA?",
+    "answer": "Divide total points earned by total credits attempted. Grade values: A=4.0, B=3.0, C=2.0, D=1.0 (undergrad only), F=0.0.",
+    "source": "UNT COI Undergraduate FAQ Page"
+  },
+  {
+    "question": "When can I register for my classes?",
+    "answer": "Check the Registration Guides at registrar.unt.edu/registration and select the guide for the semester you need.",
+    "source": "UNT COI Undergraduate FAQ Page"
+  },
+  {
+    "question": "What is my student classification?",
+    "answer": "Freshman: 0-29 hours, Sophomore: 30-59 hours, Junior: 60-89 hours, Senior: 90+ hours. Based on cumulative completed hours.",
+    "source": "UNT COI Undergraduate FAQ Page"
+  },
+  {
+    "question": "What scholarships does the College of Information offer?",
+    "answer": "See https://ci.unt.edu/student-resources/financial-assistance.html and the Eagle Scholarship Portal at https://unt.academicworks.com/",
+    "source": "UNT COI Undergraduate FAQ Page"
+  },
+  {
+    "question": "Is there a list of major courses offered by semester?",
+    "answer": "Yes! Go to registrar.unt.edu, under registration select schedule of classes, scroll to College of Information and select your major and semester.",
+    "source": "UNT COI Undergraduate FAQ Page"
+  },
+  {
+    "question": "Is there a Grad Track program for Data Science undergraduates?",
+    "answer": "Yes! Data Science undergrads interested in the MS program must complete specific elective courses. The MS requires MATH 1710, MATH 1720, and MATH 2700 prior to admission.",
+    "source": "UNT COI Undergraduate FAQ Page"
+  },
+  {
+    "question": "Is there a Grad Track program for Information Science undergraduates?",
+    "answer": "Yes! COI offers a Grad Track for Information Science students to shorten time and expenses. Visit https://ci.unt.edu/academic-programs/degrees.html for more info.",
+    "source": "UNT COI Undergraduate FAQ Page"
+  },
+  {
+    "question": "Is there a Grad Track program for Linguistics undergraduates?",
+    "answer": "Yes! The Linguistics Grad Track allows courses completed at graduate level to apply to both a bachelor and master degree at UNT.",
+    "source": "UNT COI Undergraduate FAQ Page"
+  }
+]

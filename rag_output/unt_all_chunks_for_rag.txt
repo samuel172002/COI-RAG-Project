@@ -1,0 +1,740 @@
+==================================================
+[TYPE]: FAQ
+[SOURCE]: UNT COI Undergraduate FAQ Page
+
+[QUESTION]:
+Who is my academic advisor and how do I make an advising appointment?
+
+[ANSWER]:
+We no longer have assigned advisors by last name, so you are welcome to make an appointment with whoever you would like and/or whoever has appointment availability that matches your own.
+
+==================================================
+[TYPE]: FAQ
+[SOURCE]: UNT COI Undergraduate FAQ Page
+
+[QUESTION]:
+How do I set up an appointment to change my major?
+
+[ANSWER]:
+Appointments can be made through UNT Navigate (https://unt.navigate.eab.com/) for current UNT students. Under Care Unit choose: Academic Advising: Interested in Major Change and choose the major of interest in COI.
+
+==================================================
+[TYPE]: FAQ
+[SOURCE]: UNT COI Undergraduate FAQ Page
+
+[QUESTION]:
+How do I know if I have holds on my account?
+
+[ANSWER]:
+Sign into my.unt.edu and on the student homepage, a notification about your hold will be reflected on the task tile. Selecting the hold provides more information on how to resolve or remove it.
+
+==================================================
+[TYPE]: FAQ
+[SOURCE]: UNT COI Undergraduate FAQ Page
+
+[QUESTION]:
+Where can I search, add, drop, or swap my courses?
+
+[ANSWER]:
+Sign into my.unt.edu and on the student homepage, select the enrollment tile.
+
+==================================================
+[TYPE]: FAQ
+[SOURCE]: UNT COI Undergraduate FAQ Page
+
+[QUESTION]:
+Where can I find my degree audit?
+
+[ANSWER]:
+Navigate to my.unt.edu, select advising and orientation from the student homepage, then run my degree audit.
+
+==================================================
+[TYPE]: FAQ
+[SOURCE]: UNT COI Undergraduate FAQ Page
+
+[QUESTION]:
+What do I do if my degree audit needs to be updated by an advisor?
+
+[ANSWER]:
+Email ci-advising@unt.edu with your 8-digit student ID number. This is especially true for Learning Technologies and Information Science majors.
+
+==================================================
+[TYPE]: FAQ
+[SOURCE]: UNT COI Undergraduate FAQ Page
+
+[QUESTION]:
+How do I calculate my GPA?
+
+[ANSWER]:
+Divide total points earned by total credits attempted. Grade values: A=4.0, B=3.0, C=2.0, D=1.0 (undergrad only), F=0.0.
+
+==================================================
+[TYPE]: FAQ
+[SOURCE]: UNT COI Undergraduate FAQ Page
+
+[QUESTION]:
+When can I register for my classes?
+
+[ANSWER]:
+Check the Registration Guides at registrar.unt.edu/registration and select the guide for the semester you need.
+
+==================================================
+[TYPE]: FAQ
+[SOURCE]: UNT COI Undergraduate FAQ Page
+
+[QUESTION]:
+What is my student classification?
+
+[ANSWER]:
+Freshman: 0-29 hours, Sophomore: 30-59 hours, Junior: 60-89 hours, Senior: 90+ hours. Based on cumulative completed hours.
+
+==================================================
+[TYPE]: FAQ
+[SOURCE]: UNT COI Undergraduate FAQ Page
+
+[QUESTION]:
+What scholarships does the College of Information offer?
+
+[ANSWER]:
+See https://ci.unt.edu/student-resources/financial-assistance.html and the Eagle Scholarship Portal at https://unt.academicworks.com/
+
+==================================================
+[TYPE]: FAQ
+[SOURCE]: UNT COI Undergraduate FAQ Page
+
+[QUESTION]:
+Is there a list of major courses offered by semester?
+
+[ANSWER]:
+Yes! Go to registrar.unt.edu, under registration select schedule of classes, scroll to College of Information and select your major and semester.
+
+==================================================
+[TYPE]: FAQ
+[SOURCE]: UNT COI Undergraduate FAQ Page
+
+[QUESTION]:
+Is there a Grad Track program for Data Science undergraduates?
+
+[ANSWER]:
+Yes! Data Science undergrads interested in the MS program must complete specific elective courses. The MS requires MATH 1710, MATH 1720, and MATH 2700 prior to admission.
+
+==================================================
+[TYPE]: FAQ
+[SOURCE]: UNT COI Undergraduate FAQ Page
+
+[QUESTION]:
+Is there a Grad Track program for Information Science undergraduates?
+
+[ANSWER]:
+Yes! COI offers a Grad Track for Information Science students to shorten time and expenses. Visit https://ci.unt.edu/academic-programs/degrees.html for more info.
+
+==================================================
+[TYPE]: FAQ
+[SOURCE]: UNT COI Undergraduate FAQ Page
+
+[QUESTION]:
+Is there a Grad Track program for Linguistics undergraduates?
+
+[ANSWER]:
+Yes! The Linguistics Grad Track allows courses completed at graduate level to apply to both a bachelor and master degree at UNT.
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_1
+[SLIDE_NUMBER]: 1
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Welcome to UNT and the College of Information!
+
+[KEYWORDS]:
+Welcome, College, Information
+
+[CONTENT]:
+Welcome to UNT and the College of Information!
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_3
+[SLIDE_NUMBER]: 3
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Library Science, M.S
+
+[KEYWORDS]:
+Science, Library, Information, School, Certification, Dept
+
+[CONTENT]:
+Library Science, M.S. Information Science, M.S. School Library Certification Dept. of Information Science
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_4
+[SLIDE_NUMBER]: 4
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+MS IS or LS Admissions – No entrance exam required! MS Information Science & MS Library Science • Application: • Grad Sc
+
+[KEYWORDS]:
+Science, Admissions, Entrance, Exam, Required, Information
+
+[CONTENT]:
+MS IS or LS Admissions – No entrance exam required! MS Information Science & MS Library Science • Application: • Grad School Application – UNT GradCAS • $75 application fee • Official Transcripts • English Lang. Proficiency for international applications • Dept. Application – uploaded as PDFs to the application portal • Statement of Purpose • Resumé • 2 letters of recommendation • GPA: 3.0 or higher for overall or last 60 hours or 3.5 for Graduate degree
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_5
+[SLIDE_NUMBER]: 5
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Information Science, M.S
+
+[KEYWORDS]:
+Hours, Information, Info, Librarianship, Science, Degree
+
+[CONTENT]:
+Information Science, M.S. / Library Science M.S. Degree Requirements – Prior to Fall 2026 • 36 hours of coursework • 9 hours of core: INFO 5000, INFO 5200, & INFO 5600 • 6-15 hours of Guided Electives: respective of your specific major and concentration • 12 -21 hours selected in consultation with your program advisor • Concentrations are available in: School Librarianship Certification, Information Organization, Information Systems, Health Informatics, Music Librarianship, Archival Studies, Youth Librarianship, Knowledge Management and we also have a General Program • Practicum (3 hrs.) • Capstone: e-Portfolio – students build throughout their degree
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_6
+[SLIDE_NUMBER]: 6
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Information Science, M.S
+
+[KEYWORDS]:
+Info, Hours, Information, Program, Science, Librarianship
+
+[CONTENT]:
+Information Science, M.S. / Library Science M.S. Degree Requirements –Fall 2026 & later • 36 hours of coursework • 12 hours of core: INFO 5000, INFO 5200, INFO 5600, & INFO 5094 • 6-15 hours of Guided Electives: respective of your specific major and concentration • 9 -18 hours selected in consultation with your program advisor • Concentrations are available in: Agentic AI, Information Organization, Information Systems, Health Librarianship, Archival Studies, Children’s and Young Adult Librarianship, Knowledge Management and we also have a General Program. • INFO 5094 the Capstone will contain either a practical, research, or portfolio component – depending on your program need.
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_7
+[SLIDE_NUMBER]: 7
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Information Science MS Concentrations • General • Agentic AI (*coming Fall 2026*) • Information Organization • Archival
+
+[KEYWORDS]:
+Information, Science, Concentrations, General, Agentic, Coming
+
+[CONTENT]:
+Information Science MS Concentrations • General • Agentic AI (*coming Fall 2026*) • Information Organization • Archival Studies • Information Systems • Health Librarianship • Knowledge Management
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_8
+[SLIDE_NUMBER]: 8
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Library Science MS Concentrations • General • Information Organization • Archival Studies • Knowledge Management • Child
+
+[KEYWORDS]:
+Librarianship, Library, Science, Concentrations, General, Information
+
+[CONTENT]:
+Library Science MS Concentrations • General • Information Organization • Archival Studies • Knowledge Management • Children's and Young Adult Librarianship • Law Librarianship and Legal Informatics
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_9
+[SLIDE_NUMBER]: 9
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+MS IS or LS with School Librarian Certification or School Librarian Certification only
+
+[KEYWORDS]:
+School, Certification, These, Librarian, Gradcas, Letters
+
+[CONTENT]:
+MS IS or LS with School Librarian Certification or School Librarian Certification only. No entrance exam required! • Application: • Grad School Application – UNT GradCAS • $75 application fee • Official Transcripts • Dept. Application – uploaded as PDFs to the application portal • Statement of Purpose • Resumé • 2 letters of recommendation: One of these letters must come from a School Administrator. • It is preferred that these documents are submitted with your application on GradCAS. However, this can completed for the Certificate through the College of Education, at a later time. You will need to provide these before your certification. • Current Teaching Certificate • Teaching Service Record • GPA: 3.0 or higher for overall or last 60 hours or 3.5 for Graduate degree
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_10
+[SLIDE_NUMBER]: 10
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+School Library Certification in Texas What’s needed for certification: • Two years as an early childhood-12th grade clas
+
+[KEYWORDS]:
+Certification, School, Library, Accredited, Texas, What
+
+[CONTENT]:
+School Library Certification in Texas What’s needed for certification: • Two years as an early childhood-12th grade classroom teacher in a public or accredited private school. • Completed Master’s degree • (Cert. courses can be built into our ALA accredited M.S.) • Passing results on TExES certification exam • Successful completion of School Library certification program
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_11
+[SLIDE_NUMBER]: 11
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Information Science, M.S
+
+[KEYWORDS]:
+Info, Hours, Credit, Science, Degree, School
+
+[CONTENT]:
+Information Science, M.S. / Library Science M.S. Degree Requirements with School Librarian Certification • 36 hours of coursework • 6 hours of core: INFO 5000 & INFO 5600 • 6 hours of general electives • 24 hours of School Librarian Certification coursework • Practicum (3 hrs.): Practicum is split into the last 3 semesters: • INFO 5191 (1 credit) • INFO 5192 (1 credit) • INFO 5193 (1 credit) • Capstone: e-Portfolio – students build throughout their degree
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_12
+[SLIDE_NUMBER]: 12
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Graduate Academic Certificates • Advanced Management in Libraries & Information Agencies • Agentic Artificial Intelligen
+
+[KEYWORDS]:
+Management, Information, Fall, Health, Library, Digital
+
+[CONTENT]:
+Graduate Academic Certificates • Advanced Management in Libraries & Information Agencies • Agentic Artificial Intelligence for Information Systems (*Fall 2026) • Archival Management • Children’s and Young Adult Library & Community Services • Cultural Heritage Stewardship • Digital Content Management • Digital Curation & Data Management • Health Data Science • Health Information • Health Information & Archives (*Fall 2026) • Storytelling • Rural Library Management • User Experience Design in the AI Age (*Fall 2026)
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_13
+[SLIDE_NUMBER]: 13
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Additional Program Info
+
+[KEYWORDS]:
+Degree, December, Practicum, Additional, Program, Info
+
+[CONTENT]:
+Additional Program Info. • The MS IS & MS LS are both ALA accredited. • The MS IS degree is a STEM degree • Degrees are only awarded 3 times per year: May, August, & December. • Commencement ceremonies are only in May & December • For students starting in summer 2026 - the MS IS & MS LS Practicum can possibly be waived with 6 months or more of paid work experience. • Practicum Waivers are not possible for School Library Certification students.
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_14
+[SLIDE_NUMBER]: 14
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Additional Program Info
+
+[KEYWORDS]:
+Summer, Applicants, Program, Domestic, Fall, Priority
+
+[CONTENT]:
+Additional Program Info. (Continued) • We are currently accepting applications for Summer 2026 (domestic applicants only), Fall 2026 and Spring 2027 • Summer 2026 - Priority Application deadline is: June 15, 2026 (A few summer sessions will begin in May). • Fall 2026 - Priority Application deadline is: August 1, 2026 for international applicants and August 15, 2026 for domestic applicants. • Students on an F-1 Visa must begin and end their degree program with on-campus courses
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_15
+[SLIDE_NUMBER]: 15
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Health Informatics, MS
+
+[KEYWORDS]:
+Health, Informatics
+
+[CONTENT]:
+Health Informatics, MS
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_16
+[SLIDE_NUMBER]: 16
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Information Science Department Dr
+
+[KEYWORDS]:
+Department, Cleveland, Mark, Albert, Information, Science
+
+[CONTENT]:
+Information Science Department Dr. Ana Cleveland Health Informatics Program Director Ana.Cleveland@unt.edu Website: https://informationscience.unt.edu Dr. Mark Albert Department Chair Mark.Albert@unt.edu 940.565.5825
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_17
+[SLIDE_NUMBER]: 17
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+MS HI Admissions – No entrance exam required! MS Health Informatics • Grad School App.: • Grad School Application (UNT G
+
+[KEYWORDS]:
+Grad, School, Goals, Admissions, Entrance, Exam
+
+[CONTENT]:
+MS HI Admissions – No entrance exam required! MS Health Informatics • Grad School App.: • Grad School Application (UNT GradCAS) • $75 fee • Official Transcripts • English Lang. Proficiency for international applications • Dept. App: • Upload as PDFs: • Resumé or CV • A one-page statement of purpose and goals detailing your interest in the master's program and reviewing your professional goals. • Provide contact information for 2 recommenders • GPA: 3.2 or higher for overall or last 60 hours or 3.5 for Graduate degree
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_18
+[SLIDE_NUMBER]: 18
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Health Informatics, M.S
+
+[KEYWORDS]:
+Hours, Health, Degree, Electives, Informatics, Requirements
+
+[CONTENT]:
+Health Informatics, M.S. Degree Requirements • 36 hours of coursework • 9 hours of Required Core Courses • 15 hours of Guided Electives • 9 hours of General Electives • 3 hours of Capstone • Note: this degree program is different than the Information Science MS with the Health Librarianship concentration (that is ALA accredited).
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_19
+[SLIDE_NUMBER]: 19
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Health Informatics, M.S
+
+[KEYWORDS]:
+Health, Hinf, Data, Information, Info, Informatics
+
+[CONTENT]:
+Health Informatics, M.S. - Sample Course Titles • HINF 5637 – Medical Informatics • HINF 5770 – Intro to Health Data Analytics • HINF 5365 – Information Systems in Healthcare • INFO 5709 - Data Visualization and Communication • HINF 5204 – Health Information Terminology and Standards • HINF 5631 – Searching for Evidence in Health • HINF 5771 – Applications of Health Data Analytics • INFO 5634 – Disaster Management for Information Professionals • INFO 5636 – Community-Based Health Information • INFO 5810 – Data Analysis & Knowledge Discovery
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_20
+[SLIDE_NUMBER]: 20
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Opportunity to Get Involved – Join the Health Informatics Student Organization!
+
+[KEYWORDS]:
+Opportunity, Involved, Join, Health, Informatics, Student
+
+[CONTENT]:
+Opportunity to Get Involved – Join the Health Informatics Student Organization!
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_21
+[SLIDE_NUMBER]: 21
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Data Science, M.S
+
+[KEYWORDS]:
+Data, Science, Anuradha, Vikas, Sinha, Dept
+
+[CONTENT]:
+Data Science, M.S. Anuradha & Vikas Sinha Dept. of Data Science
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_22
+[SLIDE_NUMBER]: 22
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Anuradha & Vikas Sinha Data Science Department Dr
+
+[KEYWORDS]:
+Data, Science, Department, Junhua, Ding, Kewei
+
+[CONTENT]:
+Anuradha & Vikas Sinha Data Science Department Dr. Junhua Ding Department Chair Junhua.Ding@unt.edu Dr. Kewei Sha Data Science MS Program Director Kewei.Sha@unt.edu Website: https://datascience.unt.edu
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_23
+[SLIDE_NUMBER]: 23
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+MS DS Admissions – No entrance exam required! MS Data Science • Grad School App.: • Grad School Application (UNT GradCAS
+
+[KEYWORDS]:
+Grad, School, Lang, Admissions, Entrance, Exam
+
+[CONTENT]:
+MS DS Admissions – No entrance exam required! MS Data Science • Grad School App.: • Grad School Application (UNT GradCAS) • $75 application fee (non-refundable) • Official Transcripts • English Lang. Proficiency for international applications • Write-up of Career Goals • CV with Programming Lang. knowledge & Math Level • 2 recommendations • GPA: 3.2 or higher for overall or last 60 hours or 3.5 for Graduate degree
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_24
+[SLIDE_NUMBER]: 24
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Data Science, M.S
+
+[KEYWORDS]:
+Hours, Electives, Must, Approved, Advisor, Outside
+
+[CONTENT]:
+Data Science, M.S. Degree Requirements • 36 hours of coursework • 9 hours of required core • 15 hours of Guided Electives (must be approved by advisor if outside of plan) • 6 - 9 hours of General Electives (must be approved by advisor if outside of plan) • 3 - 6 hours of Internship or Research Project
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_25
+[SLIDE_NUMBER]: 25
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Relevant Graduate Academic Certificates • Big Data and Intelligent Systems • Data Science • Digital Content Management •
+
+[KEYWORDS]:
+Data, Science, Digital, Management, Health, Relevant
+
+[CONTENT]:
+Relevant Graduate Academic Certificates • Big Data and Intelligent Systems • Data Science • Digital Content Management • Digital Curation & Data Management • Health Data Science • Health Information • Computational Linguistics
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_26
+[SLIDE_NUMBER]: 26
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Additional Program Info
+
+[KEYWORDS]:
+Applicants, Summer, Domestic, Priority, Deadline, December
+
+[CONTENT]:
+Additional Program Info. • The MS in Data Science, Information Science, Health Informatics, Linguistics and MS in Learning Technologies degrees are all STEM programs. • We are currently accepting applications for Spring 2026, Summer 2026 (domestic applicants only), Fall 2026 • Spring 2026 - Priority Application deadline: December 1, 2025 for international applicants and January 9, 2026 for domestic applicants (Semester begins on January 12th – there could be a late registration fee, for late admits). • Summer 2026 - Priority Application deadline is: June 15, 2026 (A few summer sessions will begin in May). • Fall 2026 - Priority Application deadline is: August 1, 2026 for international applicants and August 15, 2026 for domestic applicants. • Degrees are awarded 3 times per year: May, August, & December. • Commencement ceremonies are only in May & December • Students on an F-1 Visa must begin and end their degree program with on- campus courses
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_27
+[SLIDE_NUMBER]: 27
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Common FAQ’s • Students have a maximum of 5 years to complete a master’s in the College of Information
+
+[KEYWORDS]:
+Time, Student, Center, Information, Catalog, Found
+
+[CONTENT]:
+Common FAQ’s • Students have a maximum of 5 years to complete a master’s in the College of Information. • Academic catalog can be found at http://catalog.unt.edu • Students working full-time typically enroll in classes part-time. Part-time enrollment is 3- 6 credit hours (1-2 courses) and full-time enrollment is 9 credit hours (3 courses). • International students can contact the UNT International Office for any questions regarding visa requirements. • Tuition fee information can be found through the UNT Student Accounting Office. • UNT has several resources to support student success such as the Career Center, Student Money Management, Student Health & Wellness Center, Counseling & Testing Services, Learning Center, etc…
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_28
+[SLIDE_NUMBER]: 28
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Learning Technologies, MS
+
+[KEYWORDS]:
+Learning, Technologies
+
+[CONTENT]:
+Learning Technologies, MS
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_29
+[SLIDE_NUMBER]: 29
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+• Clinical Assistant Professor • Director, Masters of Science Program • Department of Learning Technologies • PhD, Unive
+
+[KEYWORDS]:
+Masters, Science, Learning, Technologies, University, Texas
+
+[CONTENT]:
+• Clinical Assistant Professor • Director, Masters of Science Program • Department of Learning Technologies • PhD, University of North Texas • Major: Learning Technologies • Minor: Psychology • M.S., University of Texas at Arlington: • Major: Masters of Science in Mind, Brain and Education Deborah Cockerham, Ph.D.
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_33
+[SLIDE_NUMBER]: 33
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Learning Technologies, MS – Degree Requirements Core Courses (12 hours) Foundation Courses (12 hours) Concentration Cour
+
+[KEYWORDS]:
+Courses, Hours, Learning, Technologies, Degree, Requirements
+
+[CONTENT]:
+Learning Technologies, MS – Degree Requirements Core Courses (12 hours) Foundation Courses (12 hours) Concentration Courses or Electives (12 hours)
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_34
+[SLIDE_NUMBER]: 34
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Artificial Intelligence in Education Learning Analytics Instructional Design and Technology Teaching and Learning with T
+
+[KEYWORDS]:
+Learning, Technology, Artificial, Intelligence, Education, Analytics
+
+[CONTENT]:
+Artificial Intelligence in Education Learning Analytics Instructional Design and Technology Teaching and Learning with Technology Workforce Leadership and Performance Management
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_35
+[SLIDE_NUMBER]: 35
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+*No GRE *No thesis *Portfolio-based *Flexible course scheduling options M.S
+
+[KEYWORDS]:
+Thesis, Portfolio, Based, Flexible, Course, Scheduling
+
+[CONTENT]:
+*No GRE *No thesis *Portfolio-based *Flexible course scheduling options M.S. Program
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_36
+[SLIDE_NUMBER]: 36
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Graduate Academic Certificates • Instructional Design & Technology • Interactive and Virtual Digital Communication
+
+[KEYWORDS]:
+Graduate, Academic, Certificates, Instructional, Design, Technology
+
+[CONTENT]:
+Graduate Academic Certificates • Instructional Design & Technology • Interactive and Virtual Digital Communication
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_37
+[SLIDE_NUMBER]: 37
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Learning Technologies Student Association • Opportunities to: • Connect with other LT students and faculty • Network wit
+
+[KEYWORDS]:
+Skills, Learning, Technologies, Student, Association, Opportunities
+
+[CONTENT]:
+Learning Technologies Student Association • Opportunities to: • Connect with other LT students and faculty • Network with industries, organizations, & alumni • Develop leadership skills • Find jobs and resources in the LT field • Foster multidisciplinary collaborations • Build academic and career skills
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_38
+[SLIDE_NUMBER]: 38
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Master of Science Linguistics
+
+[KEYWORDS]:
+Master, Science, Linguistics
+
+[CONTENT]:
+Master of Science Linguistics
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_39
+[SLIDE_NUMBER]: 39
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Linguistics Department Dr
+
+[KEYWORDS]:
+Linguistics, Department, William, Salmon, Xian, Zhang
+
+[CONTENT]:
+Linguistics Department Dr. William Salmon Department Chair William.Salmon@unt.edu Xian Zhang Graduate Advisor Xian.Zhang@unt.edu Website: https://linguistics.unt.edu/
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_40
+[SLIDE_NUMBER]: 40
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Linguistics, M.S
+
+[KEYWORDS]:
+Part, Linguistics, Admissions, School, Applicant, Process
+
+[CONTENT]:
+Linguistics, M.S. Admissions Process • Part I. Apply to Toulouse Graduate School • Grad School Application (UNT GradCAS) • $75 fee • Official Transcripts • English Lang. Proficiency • international applications only • Entrance exam scores are optional • Part II. After the completion of Part I, each applicant must submit the following supplementary documents to the Department of Linguistics at ling- admissions@unt.edu. • a 300–500 word personal statement describing the applicant's interests, career plans and purpose in working toward an MA; • a sample research paper • three letters of recommendation; and • a current vita or resume.
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_41
+[SLIDE_NUMBER]: 41
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Linguistics, MS - Degree Req
+
+[KEYWORDS]:
+Linguistics, Core, Foundation, Optional, Thesis, Required
+
+[CONTENT]:
+Linguistics, MS - Degree Req. Breakdown Linguistics M.S. (General) Linguistics M.S. – Computational Linguistics Linguistics M.S. – Language Documentation Linguistics , M.S. – English as a Second Language 15 hrs. of core 15 hrs. of core 15 hrs. of core 15 hrs. of core 21 hrs. of foundation (6 hrs. of optional thesis) 21 hrs. of foundation (9 hrs. required and 6 hrs. of optional thesis) 21 hrs. of foundation (9 hrs. required and 6 hrs. of optional thesis) 21 hrs. of foundation (12 hrs. required and 6 hrs. of optional thesis)
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_42
+[SLIDE_NUMBER]: 42
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Graduate Academic Certificates • Teaching English to Speakers of Other Languages (TESOL) • 12 hours (all courses can ove
+
+[KEYWORDS]:
+Completed, Teaching, English, Hours, Courses, Overlap
+
+[CONTENT]:
+Graduate Academic Certificates • Teaching English to Speakers of Other Languages (TESOL) • 12 hours (all courses can overlap with the MS) • Professional options: Teaching English abroad or in the U.S., designing ESL curriculum, working for government agencies • Is completed online, but does require a practicum course. • Coursework must be completed within 4-year timeframe with a 3.0 GPA. • Computational Linguistics • 12 hours (all courses can overlap with the MS) • Certificate addresses growing need for language processing skills • Coursework must be completed within 4-year timeframe with a 3.0 GPA.
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_43
+[SLIDE_NUMBER]: 43
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Other things to know: • No Linguistics Background? – That’s okay! - If you do not have a background in Linguistics, you
+
+[KEYWORDS]:
+Linguistics, Background, Ling, Class, Other, Things
+
+[CONTENT]:
+Other things to know: • No Linguistics Background? – That’s okay! - If you do not have a background in Linguistics, you will need LING 5040 as a pre-requisite class. This class is offered every semester and can be completed prior to starting the MS program. • (LING 5040 is not used in the MS degree plan).
+
+==================================================
+[TYPE]: PDF_SLIDE
+[CHUNK_ID]: 1258_coi_gradpreview_slides_11-05-2025_slide_44
+[SLIDE_NUMBER]: 44
+[SOURCE]: UNT COI Graduate Preview Slides (Nov 2025)
+
+[TITLE]:
+Questions??? – We’re here to help! • If you have program requirement questions, e-mail us at: ci-advising@unt.edu
+
+[KEYWORDS]:
+Questions, Program, Linguistics, Email, Xian, Zhang
+
+[CONTENT]:
+Questions??? – We’re here to help! • If you have program requirement questions, e-mail us at: ci-advising@unt.edu . • If you have subject / Linguistics specific questions, you can email the graduate program advisor, Dr. Xian Zhang at Xian.Zhang@unt.edu . • If you have admission or application questions for the Linguistics MS, email: ling- admissions@unt.edu
+
